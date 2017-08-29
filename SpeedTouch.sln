@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTouch", "Assembly-CSharp.csproj", "{8F3E587E-0D60-091C-2DCE-F0B7BB2ED2A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3E587E-0D60-091C-2DCE-F0B7BB2ED2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3E587E-0D60-091C-2DCE-F0B7BB2ED2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3E587E-0D60-091C-2DCE-F0B7BB2ED2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3E587E-0D60-091C-2DCE-F0B7BB2ED2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

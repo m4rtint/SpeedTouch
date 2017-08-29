@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fad1a03f3da1c2c4585c01b8855f181e
+timeCreated: 1489797190
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bump IT UP
+  fontNames:
+  - Bump IT UP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
